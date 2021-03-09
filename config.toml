@@ -1,0 +1,4 @@
+baseURL = "https://dodomusic-kayjehma21.vercel.app"
+languageCode = "en-us"
+title = "Sheet Music Free in Life"
+theme = "hugo-theme-minos"
